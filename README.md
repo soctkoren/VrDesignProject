@@ -25,7 +25,7 @@ Inital sketch of the design for the game
 ![first sketch](./images/sketch1.jpg)
 
 Inital sketch of the GUI for the game
-![GUI sketch](./images/gui-sketch1.jpg)
+![guit sketch](./images/gui.jpg)
 Based on my user test, I had to add a few subtitles and warnings to tell that the user will move when the start button is hit.
 
 User Testing Notes:
