@@ -7,7 +7,7 @@ That I took to create, test, and iterate on the project. The final product is a 
 can go into a dungeon and will be greeted with orbs that play a sequence of sounds. These sounds then need to be clicked
 backed in the same sequence. If the player is successful then the player will be exited out of the game.
 
-[link text](https://www.youtube.com/watch?v=havos3ysGOE "Final Project Video")
+[Final Project Video](https://www.youtube.com/watch?v=havos3ysGOE "Final Project Video")
 
 ### Persona
 The persona I focused on for this project was a user who was either new to VR or had a few experiences with it. I also wanted to find a age group that was slightly older
@@ -95,7 +95,7 @@ The user was able to locate the gui easily. Also the user mentioned that the gui
 ## Third Test
 This test was to gauge the movement experience for the user.
 
-[link text](https://www.youtube.com/watch?v=BWD9LF8Y_eM "Before User Test Video")
+[Before User Test Video](https://www.youtube.com/watch?v=BWD9LF8Y_eM "Before User Test Video")
 
 User Testing Movement Notes:
 Name: Chimi Kim
@@ -119,7 +119,7 @@ Not much, just what I mentioned about the speed and a little heads up on when I'
 The user not knowing what the start button did was not a good user experience. I will add further instructions so that the player knows what will happen when they hit start.
 Also I will slow down the movement speed.
 
-[link text](https://www.youtube.com/watch?v=RmOa4UJySrU "Before User Test Video")
+[After User Test Video](https://www.youtube.com/watch?v=RmOa4UJySrU "After User Test Video")
 
 ## Fourth Test
 This test was to test out the beta version of the product
@@ -141,3 +141,10 @@ It was fun and interesting. I like how a lot of the problems I addressed in earl
 [link text](https://www.youtube.com/watch?v=havos3ysGOE "Final Project Video")
 
 ### Conclusion Sections
+This project was very insightful. The project made me think about a lot of aspects of vr development that I previously did not think about. 
+The lessons learned regarding player movement and players feeling motion sickness is great way to start thinking for VR development. I particular enjoyed having
+my wife play with the app and getting her to talk about something I was building and be part of the iterative process. Also the persona helpped me keep the mood different from
+what I would have normally created. I would have made the app very happy and not gloomy as I personally don't like scary games or videos. However my persona was a person who likes scary
+movies and puzzles so this helped keep the mood nice and gloomy. Another aspect that was interesting was the GUI. I actually really liked how the GUI felt very similar to a 
+web interface. Especially the onhover or onGaze felt very natural and intuitive. Although this project was geared toward scripting, but I did have to fix quiet of bit of code
+to get the project to function properly. This was good and bad I think. While it allowed me to practice my scripting, it did take 
