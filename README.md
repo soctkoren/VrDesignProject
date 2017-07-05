@@ -22,10 +22,10 @@ Based on my user test, my assumption for choosing a older person seem correct.
 ### Sketches
 
 Inital sketch of the design for the game
-![first sketch](./images/sketch1.jpg)
+![first sketch](./images/sketch1.jpg | width=100)
 
 Inital sketch of the GUI for the game
-![gui sketch](./images/gui.JPG)
+![gui sketch](./images/gui.JPG | width=100)
 
 Based on my user test, I had to add a few subtitles and warnings to tell that the user will move when the start button is hit.
 
