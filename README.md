@@ -138,7 +138,7 @@ Yes, but the audio seems a little loud for some of the sound effects
 Question 3: How was the overal experience playing the game.
 It was fun and interesting. I like how a lot of the problems I addressed in earlier version of the game was fixed. Nice job.
 
-[link text](https://www.youtube.com/watch?v=havos3ysGOE "Final Project Video")
+[Project Demo](https://www.youtube.com/watch?v=havos3ysGOE "Final Project Video")
 
 ### Conclusion Sections
 This project was very insightful. The project made me think about a lot of aspects of vr development that I previously did not think about. 
