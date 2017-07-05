@@ -1,3 +1,33 @@
+# Super Puzzler
+## VR Puzzle Game
+
+### Summary
+This project was created for the Udacity VR Design traning. This repo is geared for documenting the process
+That I took to create, test, and iterate on the project. The final product is a puzzle game where the players
+can go into a dungeon and will be greeted with orbs that play a sequence of sounds. These sounds then need to be clicked
+backed in the same sequence. If the player is successful then the player will be exited out of the game.
+
+[link text](https://www.youtube.com/watch?v=havos3ysGOE "Final Project Video")
+
+### Persona
+The persona I focused on for this project was a user who was either new to VR or had a few experiences with it. I also wanted to find a age group that was slightly older
+as the theme and mood of the game was a little gloomy. The persona I decided on is as follows
+
+NAME: Anabell
+AGE: 25
+VR Experience: Low to Medium
+
+Based on my user test, my assumption for choosing a older person seem correct.
+
+### Sketches
+
+Inital sketch of the design for the game
+![first sketch](./images/sketch1.jpg)
+
+Inital sketch of the GUI for the game
+![GUI sketch](./images/gui-sketch1.jpg)
+Based on my user test, I had to add a few subtitles and warnings to tell that the user will move when the start button is hit.
+
 User Testing Notes:
 Name: Chimi Kim
 Experience in VR: Low
@@ -20,6 +50,7 @@ The user seems to be interested in the vr experience, however, this is her 2nd v
 One interesting thing is that the user is able to detect their own height very clearly and commented on that difference based on the
 room size. The orbs was another interesting thing that user pointed out. Because of the spot light it was obvious that something needed
 to be done with it, but at this point of the game they are not really interative so the suer was confused.
+
 
 User Testing GUI Notes:
 Name: Andrew Keturi
