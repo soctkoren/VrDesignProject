@@ -26,6 +26,7 @@ Inital sketch of the design for the game
 <img src="https://github.com/soctkoren/VrDesignProject/blob/master/images/sketch1.jpg" width="400">
 
 Inital sketch of the GUI for the game
+
 <img src="https://github.com/soctkoren/VrDesignProject/blob/master/images/gui.png" width="400">
 
 Based on my user test, I had to add a few subtitles and warnings to tell that the user will move when the start button is hit.
@@ -94,6 +95,8 @@ The user was able to locate the gui easily. Also the user mentioned that the gui
 ## Third Test
 This test was to gauge the movement experience for the user.
 
+[link text](https://www.youtube.com/watch?v=BWD9LF8Y_eM "Before User Test Video")
+
 User Testing Movement Notes:
 Name: Chimi Kim
 Experience in VR: Low
@@ -114,6 +117,9 @@ Not much, just what I mentioned about the speed and a little heads up on when I'
 #Analysis of User Test:
 
 The user not knowing what the start button did was not a good user experience. I will add further instructions so that the player knows what will happen when they hit start.
+Also I will slow down the movement speed.
+
+[link text](https://www.youtube.com/watch?v=RmOa4UJySrU "Before User Test Video")
 
 ## Fourth Test
 This test was to test out the beta version of the product
@@ -134,3 +140,4 @@ It was fun and interesting. I like how a lot of the problems I addressed in earl
 
 [link text](https://www.youtube.com/watch?v=havos3ysGOE "Final Project Video")
 
+### Conclusion Sections
