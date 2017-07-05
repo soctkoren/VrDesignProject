@@ -26,7 +26,7 @@ Inital sketch of the design for the game
 <img src="https://github.com/soctkoren/VrDesignProject/blob/master/images/sketch1.jpg" width="400">
 
 Inital sketch of the GUI for the game
-<img src="https://github.com/soctkoren/VrDesignProject/blob/master/images/gui.JPG" width="400" rotate="90">
+<img src="https://github.com/soctkoren/VrDesignProject/blob/master/images/gui.JPG" width="400" data-rotate="90">
 
 Based on my user test, I had to add a few subtitles and warnings to tell that the user will move when the start button is hit.
 
