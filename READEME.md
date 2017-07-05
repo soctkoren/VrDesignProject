@@ -37,3 +37,20 @@ Hmm the I don't really like the black canvas. It's very bland. It is also a litt
 
 Question 4: Click on the start button, and tell me about the new canvas.
 The new canavs looks like it's there to restart the game. Pretty straight foward.
+
+User Testing Movement Notes:
+Name: Chimi Kim
+Experience in VR: Low
+
+Question 1: Click on the start button and tell me how you feel?
+I movement was a little jarring because I didn't expect myself to move foward
+
+Question 2: How is the speed. Too fast or too low?
+The speed was a little fast but not too bad
+
+Question 3: Are you feeling any discomfort?
+I only felt a little discomfort in the begining when I didn't know what was going to happen. 
+It would be nice if the game told me I was about to move foward when I did something.
+
+Question 4: would you change anything about the experience?
+Not much, just what I mentioned about the speed and a little heads up on when I'm going to move.
