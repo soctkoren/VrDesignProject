@@ -25,7 +25,7 @@ Inital sketch of the design for the game
 ![first sketch](./images/sketch1.jpg)
 
 Inital sketch of the GUI for the game
-![guit sketch](./images/gui.jpg)
+![gui sketch](./images/gui.JPG)
 
 Based on my user test, I had to add a few subtitles and warnings to tell that the user will move when the start button is hit.
 
@@ -33,7 +33,7 @@ Based on my user test, I had to add a few subtitles and warnings to tell that th
 
 ## First Test
 
-![guit sketch](./images/inital-level-design-pre-bake.jpg)
+![inital level](./images/inital-level-design-pre-bake.png)
 
 This test was to see how the inital design and scale of the room felt for the user
 
@@ -53,7 +53,7 @@ Answer 3: Not really. I don't see anything through the doors. So I actually don'
 Question 4: If there is one thing you would want to change or add what would it be?
 Answer 4: I would change the color of the blue light to pink or purple. 
 
-![guit sketch](./images/after-bake.jpg)
+![after bake](./images/after-bake.png)
 
 #Analysis of User Test:
 
@@ -65,7 +65,7 @@ to be done with it, but at this point of the game they are not really interative
 ## Second Test
 This test was to see how the inital design of the user interface
 
-![guit sketch](./images/before-user-test.jpg)
+![before user](./images/before-user-test.png)
 
 User Testing GUI Notes:
 Name: Andrew Keturi
@@ -88,7 +88,7 @@ The new canavs looks like it's there to restart the game. Pretty straight foward
 
 The user was able to locate the gui easily. Also the user mentioned that the gui is a little boring so maybe adding some color would lighten things up
 
-![guit sketch](./images/after-user-test.jpg)
+![after user](./images/after-user-test.png)
 
 ## Third Test
 This test was to gauge the movement experience for the user.
