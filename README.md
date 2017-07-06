@@ -7,6 +7,8 @@ That I took to create, test, and iterate on the project. The final product is a 
 can go into a dungeon and will be greeted with orbs that play a sequence of sounds. These sounds then need to be clicked
 backed in the same sequence. If the player is successful then the player will be exited out of the game.
 
+The project took about 9 - 10 hours to complete. From idea creation, sketching, user testing, game design, iterating on design and scripting I had a lot of fun with this project
+
 [Final Project Video](https://www.youtube.com/watch?v=havos3ysGOE "Final Project Video")
 
 ### Persona
@@ -64,6 +66,7 @@ One interesting thing is that the user is able to detect their own height very c
 room size. The orbs was another interesting thing that user pointed out. Because of the spot light it was obvious that something needed
 to be done with it, but at this point of the game they are not really interative so the suer was confused.
 
+ACTIONS TAKEN: I've re-size a few items and moved the camera a bit down. I did not change the lighting per user testing as I wanted to keep a more darker theme to match my persona.
 ## Second Test
 This test was to see how the inital design of the user interface
 
@@ -89,6 +92,8 @@ The new canavs looks like it's there to restart the game. Pretty straight foward
 #Analysis of User Test:
 
 The user was able to locate the gui easily. Also the user mentioned that the gui is a little boring so maybe adding some color would lighten things up
+
+ACTION TAKEN: The main thing I changed was the color for the canvas. I did agree with the user that the screen was a little borning. Also the green theme made sense.
 
 ![after user](./images/after-user-test.png)
 
@@ -119,6 +124,8 @@ Not much, just what I mentioned about the speed and a little heads up on when I'
 The user not knowing what the start button did was not a good user experience. I will add further instructions so that the player knows what will happen when they hit start.
 Also I will slow down the movement speed.
 
+ACTION TAKEN: I lowered the speed of the player. I also added subtitle instructions on the fact the the player will be moving foward when they hit start.
+
 [After User Test Video](https://www.youtube.com/watch?v=RmOa4UJySrU "After User Test Video")
 
 ## Fourth Test
@@ -138,7 +145,28 @@ Yes, but the audio seems a little loud for some of the sound effects
 Question 3: How was the overal experience playing the game.
 It was fun and interesting. I like how a lot of the problems I addressed in earlier version of the game was fixed. Nice job.
 
+ACTION TAKEN: After reviewing the user testing notes. I adjusted the speed of the player movement to be faster so that the players can get to the action more quickly. I also lowered the sounds.
+
 [Project Demo](https://www.youtube.com/watch?v=havos3ysGOE "Final Project Video")
+
+### Breakdown For Final Project
+
+![start](./images/breakdown_start_stage.png)
+
+At the start stage of the game, the player is greated with a nice green welcome screen. The screen instruct the use to hit start to
+move foward to the game. After the user hits start the GUI disappears.
+
+![play](./images/breakdown_play_stage.png)
+
+In the play area, the user is given a challenge. The balls will make a pattern of noise. The user needs to select the same sequence
+as the puzzle in order to beat the game. If the user gets the sequence incorrect, the user will be alerted with a error sound. Afterwards the sequence will
+be played again. Once the user gets the correct sequece, a success sound will play and the user will be moved foward
+
+
+![restart](./images/breakdown_restart_stage.png)
+
+In the final restart screen. The user is instructed to try again. Much simlar to the first stage of the game, once the user hits the restart button
+the player will be moved back to the start of the game, where the game will re inital and the start screen will appear once more.
 
 ### Conclusion Sections
 This project was very insightful. The project made me think about a lot of aspects of vr development that I previously did not think about. 
